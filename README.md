@@ -1,8 +1,8 @@
 ### Hello World 🖥️ 🖐️
-Hi, I'm Truong Pham Anh(Mr), have more than 3 years of experience in Software and Mobile App, currently I'm working as a Middle Android Developer.
+Hi, I'm Truong Pham(Mr), have more than 3 years of experience in Software and Mobile App, currently I'm working as a Middle Android Developer.
 
 ## About me 🐬
-- 🖐️ I'm Pham Anh Truong.
+- 🖐️ I'm Pham Truong.
 - 🖥️ I’m currently Middle Android Developer.
 - 😄 Pronouns: He/His
 
@@ -19,12 +19,10 @@ Hi, I'm Truong Pham Anh(Mr), have more than 3 years of experience in Software an
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C-sharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=whit) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=whit) 
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=whit) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=whit)
 ![MySQL](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 
